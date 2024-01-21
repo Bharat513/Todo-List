@@ -1,0 +1,19 @@
+body {
+    /* background-color: aqua; */
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inp {
+
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+.search {
+    background-color: white;
+}
